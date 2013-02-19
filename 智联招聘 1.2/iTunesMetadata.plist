@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appleId</key>
+	<string>smile@itjoy.org</string>
+	<key>artistId</key>
+	<integer>488033538</integer>
+	<key>artistName</key>
+	<string>智联招聘 zhaopin.com</string>
+	<key>bundleShortVersionString</key>
+	<string>1.2</string>
+	<key>bundleVersion</key>
+	<string>1.2</string>
+	<key>copyright</key>
+	<string>智联招聘（zhaopin.com）</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>genre</key>
+	<string>商业</string>
+	<key>genreId</key>
+	<integer>6000</integer>
+	<key>itemId</key>
+	<integer>488033535</integer>
+	<key>itemName</key>
+	<string>智联招聘</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistArtistName</key>
+	<string>智联招聘 zhaopin.com</string>
+	<key>playlistName</key>
+	<string>智联招聘</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<date>2013-02-18T12:49:31Z</date>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string></string>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2012-01-04T04:48:05Z</string>
+	<key>s</key>
+	<integer>143465</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a1685.phobos.apple.com/us/r1000/096/Purple/v4/61/6d/eb/616debf8-097f-9fff-2874-8bf8535ba191/Icon.png</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>cn.com.zhaopin.zhilianzhaopin</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>8487092</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>5388582</integer>
+		<integer>6631587</integer>
+		<integer>8487092</integer>
+	</array>
+	<key>vendorId</key>
+	<integer>806756</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>
